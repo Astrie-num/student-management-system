@@ -1,7 +1,7 @@
 # Student Management System
 
 ## Overview
-A web app to manage student records (add/view students), built to showcase my full-stack skills for an internship application.
+A web app to manage student records (add/view students), built to showcase my full-stack skills.
 
 ## Features
 - Secure login/registration with OTP verification
